@@ -23,3 +23,4 @@ var test = function() {
 test();
 
 // this is working up to this point
+console.log(price);
